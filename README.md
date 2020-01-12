@@ -1,4 +1,5 @@
-# DE4_SIOT
+# Here Comes the Sun
+**DE4 Sensing & IoT, Design Engineering, Imperial College London
 
 ## 1. Coursework 1: Sensing
 The [Sensing](Sensing/) directory contains all the scripts for coursework 1.
