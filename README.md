@@ -18,3 +18,6 @@ Weather:
 - **data_analysis.ipynb** is the Python script for a full time-series correlation analysis on the datasets.
 
 ## 2. Coursework 2: IoT
+The [IoT](IoT/) directory contains all the scripts for coursework 2.
+
+Running the **index.html** file will open the web application.
