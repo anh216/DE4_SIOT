@@ -1,6 +1,7 @@
 # Here Comes the Sun
 **DE4 Sensing & IoT, Design Engineering, Imperial College London**
 
+This project explores the effect of weather on music listening habits by using the Spotify for Developers and OpenWeatherMap API's. This repository containts all code and data used for the analysis and application.
 
 ## 1. Coursework 1: Sensing
 The [Sensing](Sensing/) directory contains all the scripts for coursework 1.
