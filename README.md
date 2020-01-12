@@ -5,9 +5,11 @@ The [Sensing](Sensing/) directory contains all the scripts for coursework 1.
 
 ### Data collection and storage
 
+Music:
 - **music_collection.ipynb** is the Python script for collecting currently playing Spotify music.\
 - **music.csv** stroes this collected music data in a CSV file.
 
+Weather:
 - **weather_collection.ipynb** is the Python script for collecting OpenWeatherMap live weather data.\
 - **weather.csv** stroes this collected weather data in a CSV file.
 
