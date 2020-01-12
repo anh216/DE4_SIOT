@@ -1,7 +1,6 @@
 # DE4_SIOT
 
-## 1. Data Collection
+## 1. Coursework 1: Sensing
+The (DE4_SIOT/Sensing/) directory contains all the scripts for coursework 1.
 
-## 2. Data Analysis
-
-## 3. Application
+## 2. Coursework 2: IoT
